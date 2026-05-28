@@ -1,0 +1,4 @@
+autogen-agentchat==0.4.9.post1
+autogen-ext[openai]==0.4.9.post1
+yfinance==0.2.54
+python-dotenv==1.0.1
